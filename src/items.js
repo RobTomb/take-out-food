@@ -1,4 +1,4 @@
-function loadAllItems() {
+exports.loadAllItems = function () {
   return [{
     id: 'ITEM0001',
     name: '黄焖鸡',

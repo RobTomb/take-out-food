@@ -1,4 +1,4 @@
-function loadPromotions() {
+exports.loadPromotions = function() {
   return [{
     type: '满30减6元'
   }, {
